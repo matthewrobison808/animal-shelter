@@ -76,3 +76,22 @@ img {
 .badger ul {
   font-style: italic;
 }
+
+@media screen and (max-width: 1200px) and (min-width: 700px) {
+  body {
+    background-color: gray;
+    font-family: fantasy;
+    text-align: center;
+  }
+  .column {
+    float: none;
+    width:70%;
+  }
+}
+
+@media screen and (min-width: 500px) and (max-width: 700px){
+  .column {
+    float: left;
+    width: 60%;
+  }
+}
