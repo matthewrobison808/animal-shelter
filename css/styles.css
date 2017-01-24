@@ -66,4 +66,13 @@ img {
 
 .badger {
   background-color: brown;
+  font-weight: bold;
+}
+
+.badger p {
+  background-color: red;
+}
+
+.badger ul {
+  font-style: italic;
 }
