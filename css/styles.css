@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+}
+
+img {
+  width: 400px;
+}
+
+.header {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.intro {
+  text-align: center;
+  border: 2px solid blue;
+  background-color: orange;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.column {
+  text-align: center;
+  width: 32%;
+  border: 2px solid gray;
+  float: left;
+  padding: 2px;
+  margin-bottom: 5px;
+}
+
+.column ul {
+  text-align: left;
+}
+
+.column p {
+  text-align: left;
+}
+
+.dog {
+  color: blue;
+  background-color: yellow;
+}
+
+.dog ul {
+  color: orange;
+}
