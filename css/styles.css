@@ -43,4 +43,27 @@ img {
 
 .dog ul {
   color: orange;
+  font-style: italic;
+}
+
+.cat {
+  background-color: teal;
+  color: lime;
+}
+
+.cat ul {
+  font-weight: bold;
+}
+
+.fish {
+  background-color: lightblue;
+  color: green;
+}
+
+.fish ul {
+  background-color: lightgreen;
+}
+
+.badger {
+  background-color: brown;
 }
