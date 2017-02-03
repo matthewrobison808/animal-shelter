@@ -6,5 +6,10 @@ $(document).ready(function() {
     $(".badger").fadeToggle();
   })
 
-  $()
+  $(".move-animals").click(function(){
+    $(".dog").slideToggle();
+    $(".cat").slideToggle();
+    $(".fish").slideToggle();
+    $(".badger").slideToggle();
+  })
 })
